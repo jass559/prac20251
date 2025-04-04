@@ -19,3 +19,5 @@ const usePokemonStore = create((set) => ({
       }),
   }));
   
+
+  export default usePokemonStore;
